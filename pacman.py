@@ -1,5 +1,9 @@
 import random
 
+
+"""
+Add comments
+"""
 board = []
 coins = []
 level = None
